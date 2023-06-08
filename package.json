@@ -1,13 +1,13 @@
 {
-  "name": "cc_exercise_template",
+  "name": "validate_sudoku_board",
   "version": "1.0.0",
-  "description": "",
+  "description": "Code challenge for the ITK students",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jhonattan Orozco Tapia",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^29.0.0",

@@ -1,6 +1,6 @@
 # Let's do some exercises!
 
-Welcome! This repo contains all the information you need to complete __exercise-name__ aswell as some helpful tips and commands
+Welcome! This repo contains all the information you need to complete **Sudoku Validate** challenge aswell as some helpful tips and commands
 
 # As student, what do I need to do?
 
@@ -19,10 +19,10 @@ Don't work over the branch __master__, you need to create your own branch with t
 To create a new branch based on __master__ you need to run the follwing commands:
 
 ```bash
-git checkout -b CarlosReyes
+git checkout -b JhonOrozco
 ```
 
-You must notice that I used CarlosReyes this is because you need to pass the branch name there so I used my first name and my last name.
+You must notice that I used *JhonOrozco* this is because you need to pass the branch name there so I used my first name and my last name.
 
 
 ## Install packages
